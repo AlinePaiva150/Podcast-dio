@@ -1,12 +1,6 @@
 <p align="center">
 <img {
-<<<<<<< HEAD
-    src="./123.webp"
-=======
-    src="./assets/123.webp"
->>>>>>> 82c9154836a85cbab523fcaabb7c3e2f4fd59d0d
-    width="800" length="200" height="400"
-}
+    src="./123.webp"}
 />
 </p>
 
