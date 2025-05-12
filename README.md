@@ -1,6 +1,6 @@
 <p align="center">
 <img {
-    src="./assets/PLANET.webp"
+    src="./123.webp"
     width="800" length="200" height="400"
 }
 />
@@ -25,7 +25,7 @@
 </p>
 
 <div align="center">
-    <audio src="output/0510.MP3" controls title="Podcast"></audio>
+    <audio src="./0510.MP3" controls title="Podcast"></audio>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
@@ -72,7 +72,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
       align=left 
       margin=10 
       width=80 
-      src="./assets/unnamed.jpg"
+      src="./unnamed.jpg"
     />
     <p> &nbsp&nbsp&nbspAline Paiva<p>
     &nbsp&nbsp&nbsp
